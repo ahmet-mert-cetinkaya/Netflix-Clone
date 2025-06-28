@@ -1,5 +1,5 @@
 # 🎬 Netflix Clone  
-**Yapım Tarihi: 2022
+*Yapım Tarihi: 2022*
 
 Bu proje, **Netflix** ana sayfası ve giriş ekranının birebir klonudur.  
 HTML, CSS ve Bootstrap kullanılarak tasarlanmıştır.
@@ -8,7 +8,7 @@ HTML, CSS ve Bootstrap kullanılarak tasarlanmıştır.
 
 ## 📝 Proje Hakkında
 
-Bu proje, **Neos Yazılım Akademi** kursu kapsamında, **2022  yılında geliştirilmiştir.  
+Bu proje, **Neos Yazılım Akademi** kursu kapsamında, 2022  yılında geliştirilmiştir.  
 Amaç, popüler bir streaming servisinin ön yüz tasarımını uygulamalı öğrenmek ve pratik yapmaktır.
 
 ---
