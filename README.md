@@ -1,5 +1,5 @@
 # 🎬 Netflix Clone  
-*Yapım Tarihi: 2022 - 2023*
+*Yapım Tarihi: 2022
 
 Bu proje, **Netflix** ana sayfası ve giriş ekranının birebir klonudur.  
 HTML, CSS ve Bootstrap kullanılarak tasarlanmıştır.
