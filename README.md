@@ -25,7 +25,7 @@ Amaç, popüler bir streaming servisinin ön yüz tasarımını uygulamalı öğ
 ## 📸 Ekran Görüntüleri
 
 ![Ekran Görüntüsü 1](ss/netflix-giris.png)  
-![Ekran Görüntüsü 2](ss/netflix-anasayfa.jpg)
+![Ekran Görüntüsü 2](ss/netflix-anasayfa.png)
 
 ---
 
