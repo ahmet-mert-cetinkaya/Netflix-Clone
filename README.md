@@ -8,7 +8,7 @@ HTML, CSS ve Bootstrap kullanılarak tasarlanmıştır.
 
 ## 📝 Proje Hakkında
 
-Bu proje, **Neos Yazılım Akademi** kursu kapsamında, **2022 - 2023** yıllarında geliştirilmiştir.  
+Bu proje, **Neos Yazılım Akademi** kursu kapsamında, **2022  yılında geliştirilmiştir.  
 Amaç, popüler bir streaming servisinin ön yüz tasarımını uygulamalı öğrenmek ve pratik yapmaktır.
 
 ---
